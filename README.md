@@ -11,7 +11,7 @@
 </div>
 
 <div style = "display: inline_block"> <br>
-  <img align="center" alt="Gabriel-Mysql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"><img align = "center" alt = "Rafa-Csharp" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original .svg ">
+  <img align="center" alt="RUSBIRIN-Mysql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"><img align = "center" alt = "RUSBIRIN-Mysql" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original .svg ">
 </div>
 
 ##
